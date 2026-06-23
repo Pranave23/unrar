@@ -38,3 +38,4 @@ Or use the wrapper:
   brew install unar
   ```
 # unrar
+# unrar
