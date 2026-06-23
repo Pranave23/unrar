@@ -39,3 +39,4 @@ Or use the wrapper:
   ```
 # unrar
 # unrar
+# unrar
